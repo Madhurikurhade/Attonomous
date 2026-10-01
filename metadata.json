@@ -1,0 +1,8 @@
+{
+  "name": "Remix Use Case Orchestration",
+  "description": "Content Studio Use Case Orchestration flow with 5-step lifecycle: Objective, Budget \u0026 Schedule, Audience, Channels \u0026 Content, and Review \u0026 Confirm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
